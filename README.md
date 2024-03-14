@@ -1,0 +1,2 @@
+# EatEase
+Restaurant Management App
