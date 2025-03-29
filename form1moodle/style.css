@@ -1,0 +1,16 @@
+
+.tableau{
+    background-color: pink;
+    font-weight: bold;
+}
+
+legend{
+    font-size: 20px;
+    font-weight:800px; 
+}
+fieldset{
+    background-color: beige;
+}
+textarea{
+    color:black;
+}
